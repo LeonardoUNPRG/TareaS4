@@ -1,0 +1,38 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+}
+
+.accordion-body{
+    color:rgb(0, 10, 156);
+}
+#accordionExample{
+    color: red;
+}
+.fnav{
+    background-color: #FAB131;
+}
+
+.fcab{
+    background-color: #212121;
+}
+
+.text-cab{
+    color: #FAB131;
+    font-size: 300%;
+    font-weight: bold;
+}
+
+.text-nav{
+    color: #212121;
+    font-weight: bold;
+}
+.colorpie{
+    font-family: 'Georgia';
+    background: #3c1d17;
+}
+.efecto:hover{
+    transform: scale(1.06);
+    
+}
+
